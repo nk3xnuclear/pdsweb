@@ -8,7 +8,7 @@ import { TeamComponent } from './team/team.component';
 
 const routes: Routes = [
 
-  { path:'', component:HomeComponent},
+  {path:'', component:HomeComponent},
   {path:'contact',component:ContactUsComponent},
   {path:'about',component:AboutUsComponent},
   {path:'services',component:ServicesComponent},
